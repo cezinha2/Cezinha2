@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil! sou Cezinha. Aprendiz JAVA 😁
+## Bem-vindo(a) Sou Cezinha!. Aprendiz em "Full stack developer" JAVA. 😁
 
  <div>
    <a href="https://github.com/Cezinha2">
