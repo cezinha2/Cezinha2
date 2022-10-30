@@ -18,7 +18,7 @@
  
  <br>
  
-  ### Minhas nas redes abaixo!
+  ### Minhas redes abaixo!
  Estou trabalhando na criação de meus perfis profissionais.
  
 <div> 
