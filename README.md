@@ -1,9 +1,9 @@
 ## Bem-vindo(a) Sou Cezinha! Aprendiz "Full Stack Developer". 😁
 
  <div>
-   <a href="https://github.com/JoseCezarSarmento/Cezinha2">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCezarSarmento/Cezinha2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCezarSarmento/Cezinha2&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/JoseCezarSarmento">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCezarSarmento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCezarSarmento&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div> 
 <div style="display: inline_block"><br> 
