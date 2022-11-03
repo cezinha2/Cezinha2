@@ -7,6 +7,7 @@
 
 > **Troféu de Perfil do GitHub**
 
+
 <div>
    <a href="https://github.com/Cezinha2">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cezinha2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -20,13 +21,14 @@
   <img align="center" alt="CSS" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-      
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-          
     
-        
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+ <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" />
+ <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" />       
+    
+       
           
-                  
+              
           
 </div>
  
