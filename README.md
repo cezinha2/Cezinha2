@@ -6,7 +6,9 @@
 <img align="center" alt="GIT" height="160" width="150" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
 
 > **Troféu de Perfil do GitHub**
-
+<div>
+   <img src="https://st4.depositphotos.com/6644926/23460/i/450/depositphotos_234602162-stock-photo-retro-stationary-computer-isolated-white.jpg" />
+   </div>
 
 <div>
    <a href="https://github.com/Cezinha2">
