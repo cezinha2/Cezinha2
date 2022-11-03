@@ -1,4 +1,4 @@
-## Bem-vindo(a) Sou Cezinha! Aprendiz "Full Stack Developer". 😁
+# Bem-vindo(a) Sou Cezinha! Aprendiz "Full Stack Developer". 😁
 
 <div>
    <a href="https://github.com/Cezinha2">
@@ -25,8 +25,8 @@
  
  <br>
  
-  ### Minhas redes abaixo!
- Estou trabalhando na criação de meus perfis profissionais.
+  ### *Minhas redes abaixo!*
+ **Estou trabalhando na criação de meus perfis profissionais.**
  
 <div> 
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
