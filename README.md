@@ -1,4 +1,4 @@
-# Bem-vindo(a) Sou Cezinha! Aprendiz "Full Stack Developer". 😁
+# Bem-vindo(a) Sou Cezinha! "Aprendiz Developer". 😁
 
 
 
